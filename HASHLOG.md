@@ -583,3 +583,7 @@
 2026-10-19T12:16:36Z S0a-RUN output (code 6a6a98931e0c): S0a-I SHA256 da5b1b74251ee1e58aab31561b85937d8116706335487fe28e06d4e265884c30 f_e2d5d2f93d1a58a648791f4b_t0_cov_na
 2026-10-19T12:16:36Z S0a-RUN output (code 6a6a98931e0c): S0a-I SHA256 ab661f5b51e5adc1d89bf4d5861255fad3774394dbc4f87a94d1c628a81e1b54 f_e2d5d2f93d1a58a648791f4b_t0_other_na
 2026-10-19T12:16:36Z S0a-RUN output (code 6a6a98931e0c): S0a-I SHA256 9fa49702212754cb607f363a74c0f2cae8e6c9e8060c1013ece5c247073d01ca S0a_I_manifest
+2026-10-20T01:56:50Z D-DSHS-STATUS list: page https://www.dshs.texas.gov/CHS/THCIC/downloadandpurchasedata/InpatienentPUDF
+2026-10-20T01:56:50Z D-DSHS-STATUS rule: names matching ^Inpatient[-_ ]?Status[-_ ]?Report[-_, ]*([1-4])Q(\d{4})\.pdf$, quarters with a PUDF file in inputs_H.json (50 quarters, 1Q2006..2Q2018)
+2026-10-20T01:56:50Z D-DSHS-STATUS kept 3 links for 3 quarters; quarters without a link: 47
+2026-10-20T01:56:50Z D-DSHS-STATUS url list sha256 61f53b0e374bc867a52b3b1891d5b1c3fafd79fa1b59400f2ff0c64732c7bd2e
