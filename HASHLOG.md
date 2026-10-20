@@ -587,3 +587,7 @@
 2026-10-20T01:56:50Z D-DSHS-STATUS rule: names matching ^Inpatient[-_ ]?Status[-_ ]?Report[-_, ]*([1-4])Q(\d{4})\.pdf$, quarters with a PUDF file in inputs_H.json (50 quarters, 1Q2006..2Q2018)
 2026-10-20T01:56:50Z D-DSHS-STATUS kept 3 links for 3 quarters; quarters without a link: 47
 2026-10-20T01:56:50Z D-DSHS-STATUS url list sha256 61f53b0e374bc867a52b3b1891d5b1c3fafd79fa1b59400f2ff0c64732c7bd2e
+2026-10-20T02:08:25Z D-DSHS-STATUS list: page https://www.dshs.texas.gov/CHS/THCIC/downloadandpurchasedata/InpatienentPUDF
+2026-10-20T02:08:25Z D-DSHS-STATUS rule: names matching ^Inpatient[-_ ]?Status[-_ ]?Report[-_, ]*([1-4])Q(\d{4})\.pdf$, quarters with a PUDF file in inputs_H.json (50 quarters, 1Q2006..2Q2018)
+2026-10-20T02:08:25Z D-DSHS-STATUS kept 3 links for 3 quarters; quarters without a link: 47
+2026-10-20T02:08:25Z D-DSHS-STATUS url list sha256 61f53b0e374bc867a52b3b1891d5b1c3fafd79fa1b59400f2ff0c64732c7bd2e
