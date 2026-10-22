@@ -620,3 +620,4 @@
 2026-10-21T13:13:25Z S0b-RUN code commit 729ebda5999e616482beebdac7b853383d2d4fa4
 2026-10-21T17:43:00Z S0b-RUN code commit 3f1e12f1ff698db61026d30af20bce1c17346c35
 2026-10-21T22:24:21Z S0b-RUN code commit b70b69c0f6a28e5adf9942f1f0e3abf25806b198
+2026-10-21T22:24:56Z S0b-RUN partial output before a failed step (code b70b69c0f6a2): s0b_prepare SHA256 b8570a00d188c99c57b6b67da09251fe9a1dcd3983ffa6db922a135a698eb73c S0b_input_manifest
