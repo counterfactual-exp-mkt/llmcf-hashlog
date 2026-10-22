@@ -629,3 +629,4 @@
 2026-10-22T06:54:45Z S-BTS-MC rule: the Master Coordinate table, its full prezipped file only (no field or row selection); saved unopened as BTS_Master_Coordinate.zip; moved with get_manual.sh S bts_master_coordinate --from; downloaded only after S0b.done; Carrier_Decode not acquired (D-S-LOOKUP, D-S-LOOKUP-2); if the page is not this form, a correction is posted before any download
 2026-10-22T07:33:39Z S0b-RUN code commit 13a0998008a9e5726c760d608381195e53e0d0a6
 2026-10-22T07:39:52Z S0b-RUN partial output before a failed step (code 13a0998008a9): s0b_prepare SHA256 507531afffaa35858397ddcddef9f8a04eedfdcfd37cf5e3faf839cf3fd25b5c S0b_input_manifest
+2026-10-22T12:08:23Z S0b-RUN code commit 16db7a46c36b3deb042752850d0fea3e86e6b77f
