@@ -625,3 +625,5 @@
 2026-10-22T02:39:40Z S0b-RUN partial output before a failed step (code 4982fd24aa72): s0b_prepare SHA256 978e404fe7249ab4ae24ee382d4ad3295bd9e6aa680c22d6dc957f70a807f594 S0b_input_manifest
 2026-10-22T04:38:26Z S0b-RUN code commit 0f186db182ca8996e9cc151eacf620f0ebd852d3
 2026-10-22T04:44:59Z S0b-RUN partial output before a failed step (code 0f186db182ca): s0b_prepare SHA256 3ce79e24e8dacb96be82d8b3fe228c2b511b712e5f9cc859fdf1df4a86db22c7 S0b_input_manifest
+2026-10-22T06:54:45Z S-BTS-MC page: https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FLL&QO_fu146_anzr=N8vn6v10%20f722146%20gnoyr5 (Aviation Support Tables, Master Coordinate, table ID FLL)
+2026-10-22T06:54:45Z S-BTS-MC rule: the Master Coordinate table, its full prezipped file only (no field or row selection); saved unopened as BTS_Master_Coordinate.zip; moved with get_manual.sh S bts_master_coordinate --from; downloaded only after S0b.done; Carrier_Decode not acquired (D-S-LOOKUP, D-S-LOOKUP-2); if the page is not this form, a correction is posted before any download
